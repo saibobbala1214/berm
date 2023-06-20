@@ -1,4 +1,4 @@
 first line: code add by devA
-2nd line : code added by devA
-3rd line
+2nd line
+3rd line: code add by devA
 4th line
